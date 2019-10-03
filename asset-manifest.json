@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/paulus1991/flip/static/css/main.0e411f4f.chunk.css",
-    "main.js": "/paulus1991/flip/static/js/main.8cc54c52.chunk.js",
-    "main.js.map": "/paulus1991/flip/static/js/main.8cc54c52.chunk.js.map",
-    "runtime-main.js": "/paulus1991/flip/static/js/runtime-main.84d1a74e.js",
-    "runtime-main.js.map": "/paulus1991/flip/static/js/runtime-main.84d1a74e.js.map",
-    "static/css/2.0624914a.chunk.css": "/paulus1991/flip/static/css/2.0624914a.chunk.css",
-    "static/js/2.8fb4d6fc.chunk.js": "/paulus1991/flip/static/js/2.8fb4d6fc.chunk.js",
-    "static/js/2.8fb4d6fc.chunk.js.map": "/paulus1991/flip/static/js/2.8fb4d6fc.chunk.js.map",
-    "index.html": "/paulus1991/flip/index.html",
-    "precache-manifest.a380c6da89c2afb8e7a81c9ea22b52ca.js": "/paulus1991/flip/precache-manifest.a380c6da89c2afb8e7a81c9ea22b52ca.js",
-    "service-worker.js": "/paulus1991/flip/service-worker.js",
-    "static/css/2.0624914a.chunk.css.map": "/paulus1991/flip/static/css/2.0624914a.chunk.css.map",
-    "static/css/main.0e411f4f.chunk.css.map": "/paulus1991/flip/static/css/main.0e411f4f.chunk.css.map"
+    "main.css": "/paulus1991.io/flip/static/css/main.0e411f4f.chunk.css",
+    "main.js": "/paulus1991.io/flip/static/js/main.64d90ca5.chunk.js",
+    "main.js.map": "/paulus1991.io/flip/static/js/main.64d90ca5.chunk.js.map",
+    "runtime-main.js": "/paulus1991.io/flip/static/js/runtime-main.f4edcbf1.js",
+    "runtime-main.js.map": "/paulus1991.io/flip/static/js/runtime-main.f4edcbf1.js.map",
+    "static/css/2.0624914a.chunk.css": "/paulus1991.io/flip/static/css/2.0624914a.chunk.css",
+    "static/js/2.8fb4d6fc.chunk.js": "/paulus1991.io/flip/static/js/2.8fb4d6fc.chunk.js",
+    "static/js/2.8fb4d6fc.chunk.js.map": "/paulus1991.io/flip/static/js/2.8fb4d6fc.chunk.js.map",
+    "index.html": "/paulus1991.io/flip/index.html",
+    "precache-manifest.0651791da82f7822db412671875a4788.js": "/paulus1991.io/flip/precache-manifest.0651791da82f7822db412671875a4788.js",
+    "service-worker.js": "/paulus1991.io/flip/service-worker.js",
+    "static/css/2.0624914a.chunk.css.map": "/paulus1991.io/flip/static/css/2.0624914a.chunk.css.map",
+    "static/css/main.0e411f4f.chunk.css.map": "/paulus1991.io/flip/static/css/main.0e411f4f.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.84d1a74e.js",
+    "static/js/runtime-main.f4edcbf1.js",
     "static/css/2.0624914a.chunk.css",
     "static/js/2.8fb4d6fc.chunk.js",
     "static/css/main.0e411f4f.chunk.css",
-    "static/js/main.8cc54c52.chunk.js"
+    "static/js/main.64d90ca5.chunk.js"
   ]
 }
